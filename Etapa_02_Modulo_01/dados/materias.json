@@ -1,0 +1,100 @@
+[
+    {
+        "codigo": "BSI0101",
+        "nome": "Algoritmos e Estruturas de Dados",
+        "ementa": "Logica de programacao, tipos de dados, lacos de repeticao, vetores, listas, pilhas, filas e introducao a arvores e grafos.",
+        "creditos": 6,
+        "pre_requisitos": []
+    },
+    {
+        "codigo": "BSI0102",
+        "nome": "Programacao Orientada a Objetos",
+        "ementa": "Conceitos de classes, objetos, heranca, polimorfismo e encapsulamento. Padroes de projeto basicos. Linguagem Java.",
+        "creditos": 4,
+        "pre_requisitos": ["BSI0101"]
+    },
+    {
+        "codigo": "BSI0103",
+        "nome": "Sistemas Operacionais",
+        "ementa": "Gerenciamento de processos e threads, escalonamento, gerenciamento de memoria e sistemas de arquivos.",
+        "creditos": 4,
+        "pre_requisitos": ["BSI0101"]
+    },
+    {
+        "codigo": "BSI0104",
+        "nome": "Fundamentos de Administracao",
+        "ementa": "Teorias da administracao, processos administrativos: planejamento, organizacao, direcao e controle. O ambiente organizacional.",
+        "creditos": 4,
+        "pre_requisitos": []
+    },
+    {
+        "codigo": "MAT0030",
+        "nome": "Matematica Discreta",
+        "ementa": "Logica proposicional, teoria dos conjuntos, relacoes, funcoes e teoria dos grafos.",
+        "creditos": 4,
+        "pre_requisitos": []
+    },
+    {
+        "codigo": "FIS0021",
+        "nome": "Mecanica Basica",
+        "ementa": "Leis de Newton e conservacao de energia.",
+        "creditos": 4,
+        "pre_requisitos": []
+    },
+    {
+        "codigo": "BSI0201",
+        "nome": "Bancos de Dados",
+        "ementa": "Modelagem conceitual e logica de dados, modelo relacional, algebra relacional e linguagem SQL. Normalizacao.",
+        "creditos": 4,
+        "pre_requisitos": ["BSI0101"]
+    },
+    {
+        "codigo": "BSI0202",
+        "nome": "Engenharia de Software I",
+        "ementa": "Ciclo de vida de software, metodos ageis como Scrum e XP, levantamento de requisitos e modelagem com UML.",
+        "creditos": 4,
+        "pre_requisitos": ["BSI0102"]
+    },
+    {
+        "codigo": "BSI0203",
+        "nome": "Programacao para Web I",
+        "ementa": "Desenvolvimento front-end com HTML, CSS e JavaScript. Introducao a frameworks e responsividade.",
+        "creditos": 4,
+        "pre_requisitos": ["BSI0102"]
+    },
+    {
+        "codigo": "BSI0301",
+        "nome": "Redes de Computadores",
+        "ementa": "Arquitetura TCP/IP, camadas de rede, protocolos de transporte e aplicacao. Configuracao de redes locais.",
+        "creditos": 4,
+        "pre_requisitos": ["BSI0103"]
+    },
+    {
+        "codigo": "BSI0302",
+        "nome": "Engenharia de Software II",
+        "ementa": "Padroes de projeto (Design Patterns), testes de software, arquitetura de software e refatoracao.",
+        "creditos": 4,
+        "pre_requisitos": ["BSI0202"]
+    },
+    {
+        "codigo": "BSI0303",
+        "nome": "Seguranca da Informacao",
+        "ementa": "Principios de confidencialidade, integridade e disponibilidade. Criptografia, assinaturas digitais e firewalls.",
+        "creditos": 4,
+        "pre_requisitos": ["BSI0301"]
+    },
+    {
+        "codigo": "BSI0401",
+        "nome": "Governanca de TI e Auditoria",
+        "ementa": "Frameworks como COBIT e ITIL. Planejamento estrategico de TI, gestao de riscos e auditoria de sistemas de informacao.",
+        "creditos": 4,
+        "pre_requisitos": ["BSI0202", "BSI0201"]
+    },
+    {
+        "codigo": "BSI0402",
+        "nome": "Inteligencia Artificial e Data Mining",
+        "ementa": "Algoritmos de busca heuristica, aprendizado de maquina supervisionado e nao supervisionado. Mineracao de dados com arvores de decisao.",
+        "creditos": 4,
+        "pre_requisitos": ["MAT0030", "BSI0101"]
+    }
+]
