@@ -32,5 +32,4 @@ def carregar_dados():
             if materia_correspondente:
                 materia_correspondente.adicionar_turma(turma)
 
-    print(">> Dados carregados com sucesso usando dicionários nativos do Python!")
     return catalogo_materias, catalogo_professores
