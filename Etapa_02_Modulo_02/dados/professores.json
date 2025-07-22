@@ -1,0 +1,42 @@
+[
+    {
+        "id_professor": "101",
+        "nome_completo": "Ada Lovelace",
+        "departamento": "Ciencia da Computacao"
+    },
+    {
+        "id_professor": "102",
+        "nome_completo": "Alan Turing",
+        "departamento": "Ciencia da Computacao"
+    },
+    {
+        "id_professor": "103",
+        "nome_completo": "Marie Curie",
+        "departamento": "Fisica"
+    },
+    {
+        "id_professor": "201",
+        "nome_completo": "Carlos Drummond",
+        "departamento": "Matematica e Estatistica"
+    },
+    {
+        "id_professor": "202",
+        "nome_completo": "Cecilia Meireles",
+        "departamento": "Administracao e Negocios"
+    },
+    {
+        "id_professor": "203",
+        "nome_completo": "Vinicius de Moraes",
+        "departamento": "Ciencia da Computacao"
+    },
+    {
+        "id_professor": "204",
+        "nome_completo": "Clarice Lispector",
+        "departamento": "Ciencia da Computacao"
+    },
+    {
+        "id_professor": "205",
+        "nome_completo": "Machado de Assis",
+        "departamento": "Administracao e Negocios"
+    }
+]

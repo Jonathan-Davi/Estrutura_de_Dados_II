@@ -1,0 +1,130 @@
+[
+    {
+        "codigo_materia": "BSI0101",
+        "id_turma": "A",
+        "id_professor": "101",
+        "horarios": [
+            { "dia": "segunda", "inicio": 8, "fim": 10 },
+            { "dia": "quarta", "inicio": 8, "fim": 10 }
+        ]
+    },
+    {
+        "codigo_materia": "BSI0101",
+        "id_turma": "B",
+        "id_professor": "203",
+        "horarios": [
+            { "dia": "terca", "inicio": 10, "fim": 12 },
+            { "dia": "quinta", "inicio": 10, "fim": 12 }
+        ]
+    },
+    {
+        "codigo_materia": "BSI0102",
+        "id_turma": "A",
+        "id_professor": "204",
+        "horarios": [
+            { "dia": "segunda", "inicio": 10, "fim": 12 },
+            { "dia": "quarta", "inicio": 10, "fim": 12 }
+        ]
+    },
+    {
+        "codigo_materia": "BSI0103",
+        "id_turma": "A",
+        "id_professor": "102",
+        "horarios": [
+            { "dia": "terca", "inicio": 8, "fim": 10 },
+            { "dia": "quinta", "inicio": 8, "fim": 10 }
+        ]
+    },
+    {
+        "codigo_materia": "BSI0104",
+        "id_turma": "A",
+        "id_professor": "202",
+        "horarios": [
+            { "dia": "terca", "inicio": 14, "fim": 16 }
+        ]
+    },
+    {
+        "codigo_materia": "BSI0104",
+        "id_turma": "B",
+        "id_professor": "205",
+        "horarios": [
+            { "dia": "quarta", "inicio": 19, "fim": 21 }
+        ]
+    },
+    {
+        "codigo_materia": "MAT0030",
+        "id_turma": "A",
+        "id_professor": "201",
+        "horarios": [
+            { "dia": "sexta", "inicio": 8, "fim": 10 }
+        ]
+    },
+    {
+        "codigo_materia": "FIS0021",
+        "id_turma": "A",
+        "id_professor": "103",
+        "horarios": [
+            { "dia": "sexta", "inicio": 10, "fim": 12 }
+        ]
+    },
+    {
+        "codigo_materia": "BSI0201",
+        "id_turma": "A",
+        "id_professor": "203",
+        "horarios": [
+            { "dia": "terca", "inicio": 14, "fim": 16 },
+            { "dia": "quinta", "inicio": 14, "fim": 16 }
+        ]
+    },
+    {
+        "codigo_materia": "BSI0202",
+        "id_turma": "A",
+        "id_professor": "204",
+        "horarios": [
+            { "dia": "segunda", "inicio": 14, "fim": 16 },
+            { "dia": "quarta", "inicio": 14, "fim": 16 }
+        ]
+    },
+    {
+        "codigo_materia": "BSI0203",
+        "id_turma": "A",
+        "id_professor": "203",
+        "horarios": [
+            { "dia": "segunda", "inicio": 19, "fim": 21 },
+            { "dia": "quarta", "inicio": 19, "fim": 21 }
+        ]
+    },
+    {
+        "codigo_materia": "BSI0301",
+        "id_turma": "A",
+        "id_professor": "102",
+        "horarios": [
+            { "dia": "terca", "inicio": 16, "fim": 18 },
+            { "dia": "quinta", "inicio": 16, "fim": 18 }
+        ]
+    },
+    {
+        "codigo_materia": "BSI0302",
+        "id_turma": "A",
+        "id_professor": "204",
+        "horarios": [
+            { "dia": "segunda", "inicio": 16, "fim": 18 }
+        ]
+    },
+    {
+        "codigo_materia": "BSI0303",
+        "id_turma": "A",
+        "id_professor": "102",
+        "horarios": [
+            { "dia": "quarta", "inicio": 16, "fim": 18 }
+        ]
+    },
+    {
+        "codigo_materia": "BSI0401",
+        "id_turma": "A",
+        "id_professor": "205",
+        "horarios": [
+            { "dia": "quinta", "inicio": 16, "fim": 18 }
+        ]
+    }
+]
